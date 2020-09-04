@@ -1,5 +1,5 @@
 # Border-Collie-Optimization
-Border Collie Optimization is a new metaheuristic algorithm based on the behavior of Border Collie dogs
+Border Collie Optimization is a new metaheuristic algorithm based on the behavior of Border Collie dogs. To get an idea of how the algorithm works, you can access the multimedia presentation present in https://ieeexplore.ieee.org/document/9106341.
 The code is written in Matlab2019a.
 The program execution starts with borderc.m
 
