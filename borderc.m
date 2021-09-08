@@ -51,7 +51,7 @@ for g=1:gen
     fopt1(g)=fopt;
     
     if(g>1)
-        if(fopt1(g)<fopt1(g-1))
+        if(fopt1(g)>fopt1(g-1))
             k=k+1;
             if (k>5)
                 eye=1;
